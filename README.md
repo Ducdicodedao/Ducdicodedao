@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-- 👋 Hi, I'm Duc Nguyen 🌱<br>.
+- 👋 Hi, I'm Duc Nguyen 🌱.<br>
 - ✍ I'm a student of: Ho Chi Minh city University of Technology and Education (HCMUTE).
 - :blue_heart: I am part of [Google Developer Student Clubs - HCM UTE](https://www.facebook.com/gdsc.hcmute) - One of the Vietnam's largest student community.
 - 🔭 I currently need help to learn advanced HTML&CSS.
