@@ -5,7 +5,7 @@
 - 👋 Hi, I'm Duc Nguyen 🌱.<br>
 - ✍ I'm a student of: Ho Chi Minh city University of Technology and Education (HCMUTE).
 - :blue_heart: I am part of [Google Developer Student Clubs - HCM UTE](https://www.facebook.com/gdsc.hcmute) - One of the Vietnam's largest student community.
-- 🔭 I currently need help to learn advanced HTML&CSS.
+- 🔭 I currently need help to learn advanced HTML&CSS&Javascript.
 - ⚡ Fun fact: !(Coding over coffee😅).
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
