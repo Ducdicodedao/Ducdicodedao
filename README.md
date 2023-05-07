@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/minh-%C4%91%E1%BB%A9c-52936421b/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn badge" />
   </a>
- <a href="mailto:mingduc17082002@gmail.com?hl=en" target="_blank">
+ <a href="mailto:ducdevday@gmail.com?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a> 
   <a href="https://www.facebook.com/mingduc2k2/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
