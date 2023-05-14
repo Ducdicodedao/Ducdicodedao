@@ -12,7 +12,7 @@
 <!--   <a href="https://github.com/Minhduc2k2">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a> -->
-    <a href="https://www.linkedin.com/in/minh-%C4%91%E1%BB%A9c-52936421b/">
+    <a href="https://www.linkedin.com/in/minh-duc-52936421b/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn badge" />
   </a>
  <a href="mailto:ducdevday@gmail.com?hl=en" target="_blank">
